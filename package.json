@@ -1,0 +1,22 @@
+{
+  "name": "mern-ecom",
+  "version": "1.1.2",
+  "description": "A CLI tool to quickly set up a MERN eCommerce project",
+  "type": "module",
+  "bin": {
+    "ecom-launcher": "index.js"
+  },
+  "scripts": {},
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "axios": "^1.8.1"
+  },
+  "keywords": [
+    "mern",
+    "ecommerce",
+    "setup",
+    "cli"
+  ],
+  "author": "Hruthik M",
+  "license": "MIT"
+}
