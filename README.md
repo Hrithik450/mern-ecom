@@ -1,15 +1,15 @@
 ## Powered By CodeEase 🚀
 
-[![NPM Version](https://img.shields.io/npm/v/ecom-launcher.svg)](https://www.npmjs.com/package/mern-ecom)
-[![License](https://img.shields.io/npm/l/ecom-launcher.svg)](https://github.com/Hrithik450/mern-ecom/blob/main/LICENSE)
-[![Downloads](https://img.shields.io/npm/dm/ecom-launcher.svg)](https://www.npmjs.com/package/ecom-launcher)
+[![NPM Version](https://img.shields.io/npm/v/mern-ecom.svg)](https://www.npmjs.com/package/mern-ecom)
+[![License](https://img.shields.io/npm/l/mern-ecom.svg)](https://github.com/Hrithik450/mern-ecom/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/npm/dm/mern-ecom.svg)](https://www.npmjs.com/package/mern-ecom)
 
 ---
 
 ### ⬇️ Installation
 
 ```sh
-npx mern-ecom@1.2.1
+npx mern-ecom@1.2.2
 ```
 
 ### 🚀 Introduction
@@ -39,7 +39,7 @@ This project is licensed under the MIT License.
 To create a new project, run:
 
 ```sh
-npx mern-ecom@1.2.1
+npx mern-ecom@1.2.2
 ```
 
 You will be prompted with:
