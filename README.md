@@ -9,7 +9,7 @@
 ### ⬇️ Installation
 
 ```sh
-npx mern-ecom@1.2.0
+npx mern-ecom@1.2.1
 ```
 
 ### 🚀 Introduction
@@ -39,7 +39,7 @@ This project is licensed under the MIT License.
 To create a new project, run:
 
 ```sh
-npx mern-ecom@1.2.0
+npx mern-ecom@1.2.1
 ```
 
 You will be prompted with:
