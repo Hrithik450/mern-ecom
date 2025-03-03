@@ -1,6 +1,6 @@
 ## Powered By CodeEase 🚀
 
-[![NPM Version](https://img.shields.io/npm/v/ecom-launcher.svg)](https://www.npmjs.com/package/ecom-launcher)
+[![NPM Version](https://img.shields.io/npm/v/ecom-launcher.svg)](https://www.npmjs.com/package/mern-ecom)
 [![License](https://img.shields.io/npm/l/ecom-launcher.svg)](https://github.com/Hrithik450/mern-ecom/blob/main/LICENSE)
 [![Downloads](https://img.shields.io/npm/dm/ecom-launcher.svg)](https://www.npmjs.com/package/ecom-launcher)
 
