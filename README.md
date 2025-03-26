@@ -12,17 +12,6 @@
 npm i ecom-quickstart@1.0.2
 ```
 
-📌 Import installProject function:
-
-```sh
-import { installProject } from "ecom-quickstart";
-
-// Provide your API KEY
-installProject(apiKey);
-```
-
-🚀 Run the setup:
-
 ### 🚀 Introduction
 
 ecom-launcher automates setting up frontend and backend folders, installing dependencies, and initializing servers, making development faster and hassle-free.
@@ -52,6 +41,17 @@ To create a new project, run:
 ```sh
 npm i ecom-quickstart@1.0.2
 ```
+
+📌 Import installProject function:
+
+```sh
+import { installProject } from "ecom-quickstart";
+
+// Provide your API KEY
+installProject(apiKey);
+```
+
+🚀 Run the setup:
 
 You will be prompted with:
 
