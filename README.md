@@ -1,4 +1,4 @@
-## Powered By CodeEase 🚀
+## Powered By CodeEaseX 🚀
 
 [![NPM Version](https://img.shields.io/npm/v/ecom-quickstart.svg)](https://www.npmjs.com/package/ecom-quickstart)
 [![License](https://img.shields.io/npm/l/ecom-quickstart.svg)](https://github.com/Hrithik450/mern-ecom/blob/main/LICENSE)
@@ -9,8 +9,19 @@
 ### ⬇️ Installation
 
 ```sh
-npm i ecom-quickstart@1.0.1
+npm i ecom-quickstart@1.0.2
 ```
+
+📌 Import installProject function:
+
+```sh
+import { installProject } from "ecom-quickstart";
+
+// Provide your API KEY
+installProject(apiKey);
+```
+
+🚀 Run the setup:
 
 ### 🚀 Introduction
 
@@ -39,7 +50,7 @@ This project is licensed under the MIT License.
 To create a new project, run:
 
 ```sh
-npm i ecom-quickstart@1.0.1
+npm i ecom-quickstart@1.0.2
 ```
 
 You will be prompted with:
