@@ -54,3 +54,7 @@ import { installProject, setupProcessHandlers } from "./validate.js";
 export { installProject };
 
 setupProcessHandlers();
+
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = { installProject };
+}

@@ -9,7 +9,7 @@
 ### ⬇️ Installation
 
 ```sh
-npm i ecom-quickstart@1.0.3
+npm i ecom-quickstart@1.0.4
 ```
 
 ### 🚀 Introduction
@@ -39,7 +39,7 @@ This project is licensed under the MIT License.
 To create a new project, run:
 
 ```sh
-npm i ecom-quickstart@1.0.3
+npm i ecom-quickstart@1.0.4
 ```
 
 📌 Import installProject function:

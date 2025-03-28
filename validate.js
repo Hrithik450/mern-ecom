@@ -129,3 +129,7 @@ export function setupProcessHandlers() {
     process.exit(1);
   });
 }
+
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = { installProject };
+}
